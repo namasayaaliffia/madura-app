@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374883131261",
+    "project_id": "warungmadura-e5b1d",
+    "storage_bucket": "warungmadura-e5b1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374883131261:android:ba867e0cfed3c73d0cb614",
+        "android_client_info": {
+          "package_name": "com.example.madura_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLTWwTUQ_oeIjyF6nAOyHQ_TRL7okDOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374883131261:android:5770be20202428690cb614",
+        "android_client_info": {
+          "package_name": "com.mobile_madura_warung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLTWwTUQ_oeIjyF6nAOyHQ_TRL7okDOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
